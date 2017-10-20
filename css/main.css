@@ -3,17 +3,16 @@
 body {
     margin: 30px auto;
     width: 70%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family: URW Palladio L, serif;
 }
 
-nav ul, footer ul {
-    /*font-family: 'Helvetica', 'Arial', 'Sans-Serif';*/
+#main_nav > ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-
-nav ul li, footer ul li {
+#main_nav > ul > li {
     display: inline;
     margin-right: 20px;
 }
@@ -30,13 +29,22 @@ a:hover {
 }
 
 #welcome_text {
+	margin-bottom: 15px;
 }
 
 h1 {
-	margin: 0;
-	margin-bottom: 10px;
-    font-size: 1.5em;
+	font-family: URW Palladio L, serif;
+    font-size: 2em;
+    font-weight: normal;
+    color: #333;
+    display: inline-block;
+    letter-spacing: 1px;
 }
+h1 > span {
+	font-size: 0.5em;
+	font-weight: normal;
+}
+h1:hover {letter-spacing: 1.5px;}
 
 p {
 	margin: 0;
@@ -93,4 +101,13 @@ button:hover{
 footer {
 	margin-top: 10px;
     border-top: 1px solid #d5d5d5;
+}
+footer > ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+footer > ul > li {
+    display: inline;
+    margin-right: 20px;
 }
