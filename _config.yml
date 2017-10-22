@@ -1,0 +1,40 @@
+title: Eugen Rožić
+email: erozic@zoho.eu
+description: >- # this means to ignore newlines until "baseurl:"
+ Personal pages of Eugen Rožić, MSc in Physics and ICT/CS.
+baseurl: ""
+url: "erozic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+github_username: erozic
+github_repository: erozic.github.io
+author:
+  name: Eugen Rožić
+  email: erozic@zoho.eu
+
+permalink: /blog/:year/:month/:day/:title
+
+defaults:
+  -
+    scope:
+      path: "imgs"
+    values:
+      image: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
