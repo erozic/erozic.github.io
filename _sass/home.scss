@@ -1,11 +1,13 @@
 
 .home_container {
 	margin: 50px auto;
-	width: 70%;
+	width: 60%;
 }
 
 #welcome_text {
-	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid $border-color;
+	margin-bottom: 10px;
 }
 #home_heading {
     font-size: 2em;
@@ -23,6 +25,7 @@
 
 #welcome_slideshow {
 	position: relative;
+	margin: 0 auto;
 	background-color: #000;
 	width: 100%;
 	padding-top: 56.25%;
