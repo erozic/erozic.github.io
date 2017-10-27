@@ -1,4 +1,5 @@
-var imgIndex = 1;
+var pics = document.getElementsByClassName("welcome_pic");
+var imgIndex = Math.floor(Math.random() * pics.length) + 1;
 var timeoutHandle = 0;
 
 showImg(imgIndex);
@@ -16,7 +17,6 @@ function prevImg() {
 }
 
 function showImg() {
-	var pics = document.getElementsByClassName("welcome_pic");
 	if (imgIndex>pics.length) {
 		imgIndex = 1
 	} else if (imgIndex<1) {

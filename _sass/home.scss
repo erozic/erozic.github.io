@@ -1,0 +1,67 @@
+
+.home_container {
+	margin: 50px auto;
+	width: 70%;
+}
+
+#welcome_text {
+	margin-bottom: 25px;
+}
+#home_heading {
+    font-size: 2em;
+    font-weight: normal;
+    letter-spacing: 1px;
+   	color: $text-color;
+}
+#home_heading > span {
+	font-size: 0.5em;
+}
+#home_heading:hover {
+	text-decoration: none;
+	letter-spacing: 1.5px;
+}
+
+#welcome_slideshow {
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	padding-top: 56.25%;
+	// border-radius: 13px;
+}
+#welcome_slideshow:hover > #home_bttn_left {display: inline-block;}
+#welcome_slideshow:hover > #home_bttn_right {display: inline-block;}
+
+.welcome_pic {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	// border-radius: inherit; -> no good, has to be a bit smaller
+}
+
+.slideshow_bttn {
+	border: none;
+	padding: 8px 16px;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 1.5em;
+	cursor: pointer;
+	color: #fff!important;
+	background-color: #000!important;
+	display: none;
+}
+.slideshow_bttn:hover{
+	color: #000!important;
+	background-color: #ccc!important;
+}
+#home_bttn_left {
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	transform: translate(0%,-50%);
+}
+#home_bttn_right {
+	position: absolute;
+	top: 50%;
+	right: 0%;
+	transform: translate(0%,-50%);
+}
