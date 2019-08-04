@@ -1,15 +1,14 @@
 
 .page_container {
-	margin: 50px auto;
-	width: 50%;
+  margin: 4em 30%;
+  width: 40%;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: $text-color;
+  color: $text-color;
 }
 
 p {
-	text-align: justify;
-	font-size: $base-font-size;
-	line-height: 1.5;
+  text-align: justify;
+  line-height: 1.5;
 }

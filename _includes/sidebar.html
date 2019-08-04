@@ -1,12 +1,24 @@
 <div id="site_sidebar">
-	<a id="sidebar_name" href="/">Eugen Rožić</a>
-	<br>
-	<a id="sidebar_IPA" href="https://en.wikipedia.org/wiki/Help:IPA/Serbo-Croatian" target="_blank">/&#x025B;ug&#x025B;n ro&#x0292;it&#x0361;&#x0255;/</a>
-	<br>
-	<div class="sidebar_link" id="sidebar_CV">
-	<a href="/files/Eugen_Rozic_CV.pdf" target="_blank">Curriculum Vitae</a>
-	</div>
-	<div class="sidebar_link" id="sidebar_CV_template">
-	<a href="/files/Eugen_Rozic_CV_template.zip">CV <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> template</a>
-	</div>
+  <div id="sidebar_title">
+    <a id="sidebar_name" href="/{{ page.lang }}/">Eugen Rožić</a>
+    <br>
+    <a id="sidebar_IPA" href="https://en.wikipedia.org/wiki/Help:IPA/Serbo-Croatian" target="_blank">/&#x025B;ug&#x025B;n ro&#x0292;it&#x0255;/</a>
+    <br>
+    <span>
+    {% if page.lang == 'hr' %}
+    mag. phys.,<br>mag. ing. inf. et comm. techn.
+    {% else %}
+    MSc in Physics & ICT
+    {% endif %}
+    </span>
+  </div>
+
+  <div class="sidebar_link_group">
+    <a href="/files/CV_full_engl.pdf" target="_blank">Resume</a>
+    /
+    <a href="/files/CV_full_hrv.pdf" target="_blank">Životopis</a>
+    <hr>
+    <a href="/files/CV_template.zip" style="font-size: 1.0em;"><span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV template</a>
+  </div>
+
 </div>

@@ -10,16 +10,17 @@ $link-color: #a52a2a; // brown/maroon
 $border-color: #d5d5d5; // light gray
 
 body {
-	font-family: $base-font-family;
-	color: $text-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  color: $text-color;
 }
 
 a {
-	text-decoration: none;
-	color: $link-color;
+  text-decoration: none;
+  color: $link-color;
 }
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 @import "sidebar_header_footer", "home", "page", "404";

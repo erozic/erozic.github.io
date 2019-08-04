@@ -1,9 +1,16 @@
 <header id="site_header">
-	<nav id="site_nav">
-		<ul>
-	        <li><a {% include header_link_class.html link_title="about" %} href="/about/">About</a></li>
-        	<li><a {% include header_link_class.html link_title="research" %} href="/research/">Research</a></li>
-        	<li><a {% include header_link_class.html link_title="blog" %} href="/blog/">Blog</a></li>
-    	</ul>
-	</nav>
+  <nav id="site_nav">
+    <ul>
+      {% for site_page in site.html_pages %}
+        {% if site_page.name contains ":" and site_page.lang == page.lang %}
+      <li><a {% include header_link_class.html link_id=site_page.id %} href="{{ site_page.url }}">{{ site_page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
 </header>
+<div id="lang_link">
+  <a {% if page.lang == 'hr' %} class="active" {% endif %}href="{{ page.url | replace: '/en/', '/hr/'}}">hrvatski</a>
+  |
+  <a {% if page.lang == 'en' %} class="active" {% endif %} href="{{ page.url | replace: '/hr/', '/en/'}}">english</a>
+</div>

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Doma
+id: home_hr
+lang: hr
+permalink: /hr/
+redirect_from:
+  - /
+---
+{% include sidebar.html %}
+
+<div class="home_container">
+	
+  {% include header.html %}
+
+  <div id="welcome_slideshow">
+    {% for photo in site.static_files %}
+      {% if photo.path contains 'welcome_pics' %}
+        <img class="welcome_pic" src="{{ site.baseurl }}{{ photo.path }}" title="{{ photo.basename }}" style="display: none;"/>
+      {% endif %}
+    {% endfor %}
+
+    <button class="slideshow_bttn" id="home_bttn_left" onclick="prevImg()">&#10094;</button>
+    <button class="slideshow_bttn" id="home_bttn_right" onclick="nextImg()">&#10095;</button>
+    <script src="/scripts/slideshow.js"></script>
+  </div>
+	
+  {% include footer.html %}
+
+</div>

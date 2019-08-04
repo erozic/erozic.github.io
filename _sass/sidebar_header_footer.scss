@@ -1,38 +1,44 @@
 
 #site_sidebar {
-	position: fixed;
-	top: 65px;
-	left: 6%;
-	width: 14%;
+  position: fixed;
+  top: 3.4em;
+  left: 8%;
+  width: 14%;
+}
+#sidebar_title {
+  text-align: center;
+  margin-bottom: 75px;
 }
 #sidebar_name {
-    font-size: 2em;
-    font-weight: normal;
-    letter-spacing: 1px;
-   	color: $text-color;
+  font-size: 2.0em;
+  font-weight: normal;
+  letter-spacing: 1.5px;
+  color: $text-color;
 }
 #sidebar_name:hover {
-	text-decoration: none;
-	letter-spacing: 1.5px;
+  text-decoration: none;
+  letter-spacing: 3px;
 }
 #sidebar_IPA {
-	font-size: 1.3em;
+  font-size: 1.2em;
 }
-.sidebar_link {
-	height: 35px; line-height: 35px;
-	margin: 10px auto;
-	font-size: $base-font-size;
-	text-align: center;
-	vertical-align: middle;
-	border: 1px solid $text-color;
-	border-radius: 5px;
+#sidebar_title > span {
+  line-height: 1.7em;
 }
-#sidebar_CV {
-	margin-top: 50px;
-	font-size: 1.2em;
+.sidebar_link_group {
+  margin: 20px auto;
+  padding: 10px 0px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid $text-color;
+  border-radius: 5px;
 }
-#sidebar_CV_template {
-	font-size: 1em;
+.sidebar_link_group > a {
+  font-size: 1.2em;
+}
+.sidebar_link_group > hr {
+  margin: 10px;
+  border-width: 1px 0px 0px;
 }
 
 #LaTeX > sub, #LaTeX > sup {
@@ -53,41 +59,53 @@
 /*---------------------------------------*/
 
 #site_header {
-	margin-bottom: 20px;
-    border-bottom: 1px solid $border-color;
+  margin-bottom: 30px;
+  border-bottom: 1px solid $border-color;
+}
+#site_nav {
+  position: relative;
 }
 #site_nav > ul {
-    padding: 0px;
-    margin: 0px 0px 10px;
-    list-style: none;
+  padding: 0px;
+  margin: 0px 0px 10px;
+  list-style: none;
 }
 #site_nav > ul > li {
-    display: inline;
-    margin-right: 5%;
+  display: inline;
+  margin-right: 30pt;
 }
 .header_link, .active_header_link {
-	font-size: 1.3em;
-    font-weight: normal;
+  font-size: 1.2em;
+  font-weight: normal;
 }
 .active_header_link {
-	color: $text-color;
+  color: $text-color;
+}
+#lang_link {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: $border-color;
+}
+#lang_link > a.active {
+  color: $text-color;
 }
 
 /*---------------------------------------*/
 
 #site_footer {
-	margin-top: 10px;
-    border-top: 1px solid $border-color;
+  margin-top: 30px;
+  border-top: 1px solid $border-color;
 }
 #site_footer > ul {
-    padding: 0px;
-    margin: 10px 0 0;
-    list-style: none;
+  padding: 0px;
+  margin: 10px 0 0;
+  list-style: none;
 }
 #site_footer > ul > li {
-    display: inline;
-    margin-right: 5%;
+  display: inline;
+  margin-right: 30pt;
 }
 .footer_link {
-    font-weight: bold;
+  font-weight: bold;
 }
