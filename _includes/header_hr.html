@@ -2,7 +2,7 @@
   <nav id="site_nav">
     <ul>
       {% for site_page in site.html_pages %}
-        {% if site_page.name contains ":" and site_page.lang == page.lang %}
+        {% if site_page.name contains ":" and site_page.lang == "hr" %}
       <li><a {% include header_link_class.html link_id=site_page.id %} href="{{ site_page.url }}">{{ site_page.title }}</a></li>
         {% endif %}
       {% endfor %}
@@ -10,7 +10,7 @@
   </nav>
 </header>
 <div id="lang_link">
-  <a {% if page.lang == 'hr' %} class="active" {% endif %}href="{{ page.url | replace: '/en/', '/hr/'}}">hrvatski</a>
+  <a class="active" href="{{ page.url | replace: '/en/', '/hr/'}}">hrvatski</a>
   |
-  <a {% if page.lang == 'en' %} class="active" {% endif %} href="{{ page.url | replace: '/hr/', '/en/'}}">english</a>
+  <a href="{{ page.url | replace: '/hr/', '/en/'}}">english</a>
 </div>

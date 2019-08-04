@@ -19,6 +19,16 @@ defaults:
       path: "imgs"
     values:
       image: true
+  -
+    scope:
+      path: "hr"
+    values:
+      lang: hr
+  -
+    scope:
+      path: "en"
+    values:
+      lang: en
 
 # Build settings
 markdown: kramdown

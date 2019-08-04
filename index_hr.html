@@ -1,23 +1,21 @@
 ---
 layout: default
-title: Doma
-id: home_hr
 lang: hr
+title: Početna
+id: home_hr
 permalink: /hr/
 redirect_from:
   - /
 ---
-{% include sidebar.html %}
+{% include sidebar_hr.html %}
 
-<div class="home_container">
+<div id="home_container">
 	
-  {% include header.html %}
+  {% include header_hr.html %}
 
   <div id="welcome_slideshow">
-    {% for photo in site.static_files %}
-      {% if photo.path contains 'welcome_pics' %}
-        <img class="welcome_pic" src="{{ site.baseurl }}{{ photo.path }}" title="{{ photo.basename }}" style="display: none;"/>
-      {% endif %}
+    {% for photo in site.data.welcome_pics %}
+    <img class="welcome_pic" src="{{ photo.path }}" title="{{ photo.title_hr }}" style="display: none;"/>
     {% endfor %}
 
     <button class="slideshow_bttn" id="home_bttn_left" onclick="prevImg()">&#10094;</button>
@@ -25,6 +23,6 @@ redirect_from:
     <script src="/scripts/slideshow.js"></script>
   </div>
 	
-  {% include footer.html %}
+  {% include footer_hr.html %}
 
 </div>
