@@ -11,9 +11,12 @@ author:
   name: Eugen Rožić
   email: erozic@zoho.eu
 
-permalink: /blog/:year/:month/:day/:title
-
 defaults:
+  -   
+    scope:
+      type: pages
+    values:
+      permalink: /:path/:basename:output_ext
   -
     scope:
       path: "imgs"
