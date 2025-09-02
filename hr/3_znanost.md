@@ -3,6 +3,7 @@ layout: page_hr
 title: Znanost
 id: znanost
 permalink: /hr/science/
+header: true
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 

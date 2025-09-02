@@ -1,8 +1,8 @@
 <header id="site_header">
   <nav id="site_nav">
     <ul>
-      {% for site_page in site.html_pages %}
-        {% if site_page.name contains ":" and site_page.lang == "hr" %}
+      {% for site_page in site.pages %}
+        {% if site_page.header == true and site_page.lang == "hr" %}
       <li><a {% if site_page.id == page.id %}
               class="active_header_link"
              {% else %}

@@ -3,6 +3,7 @@ layout: page_en
 title: Teaching
 id: teaching
 permalink: /en/teaching/
+header: true
 ---
 <p>
 TODO - stuff related to teaching (scripts, materials, thoughts, ...) should be here (eventually...)

@@ -3,6 +3,7 @@ layout: page_en
 title: Science
 id: science
 permalink: /en/science/
+header: true
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 
