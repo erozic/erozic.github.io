@@ -7,40 +7,28 @@ header: true
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 
-<p>
 TODO - list of research areas I engaged with along with short descriptions...
-</p>
 
-<h3>Various texts and thoughts</h3>
-<ul id="reviews_ol">
-  <li><a href="/en/science/LAMMPS_book_review.html">Extending and Modifying LAMMPS</a>, a book review (2021)</li>
-  <li><a href="/files/Topological_Defects_in_Physics.pdf" target="_blank" rel="noopener noreferrer">Topological Defects in Physics</a>, a pedagogically written overview essay (2017)</li>
-</ul>
+### Various texts and thoughts
+- [Extending and Modifying LAMMPS](/en/science/LAMMPS_book_review.html), a book review (2021)
+- [Topological Defects in Physics](/files/Topological_Defects_in_Physics.pdf){: target="_blank"}, a pedagogically written overview essay (2017)
 
-<h3>Journal Articles</h3>
-<a href="#" onclick="toggleDisplay('articles_ol')">(click to show/hide the list of articles)</a>
-<ol reversed="reversed" id="articles_ol" style="display: none;">
-  <li><strong>E. Rožić</strong>, A. Šarić, <a href="#">A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS</a>, in preparation</li>
-  <li><strong>E. Rožić</strong>, A. Šarić, <a href="#">A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids</a>, in preparation</li>
-  <li><strong>E. Rožić</strong>, V. Zlatić, <a href="#">The Edges-as-Particles Thermodynamical Picture of Networks</a>, in preparation</li>
-</ol>
+### Journal Articles
+[(click to show/hide the list of articles)](#){: onclick="toggleDisplay('articles_ol')"}
+3. **E. Rožić**, A. Šarić, [A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS](#), in preparation
+2. **E. Rožić**, A. Šarić, [A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids](#), in preparation
+1. **E. Rožić**, V. Zlatić, [The Edges-as-Particles Thermodynamical Picture of Networks](#), in preparation
+{: reversed="reversed" id="articles_ol" style="display: none;"}
 
-<h3>Conference and Workshop Papers</h3>
-<ol reversed="reversed" id="papers_ol">
-  <li>Brbić, M.; <strong>Rožić, E.</strong>; Podnar Žarko, I. <a href="/files/Recommendation_of_YouTube_videos.pdf" target="_blank">Recommendation of YouTube Videos</a>. Proceedings of the 35<sup>th</sup> MIPRO International Convention, Opatija, Croatia (pp. 1775 -- 1779), IEEE Xplore (2012)</li>
-</ol>
+### Conference and Workshop Papers
+[(click to show/hide the list of articles)](#){: onclick="toggleDisplay('papers_ol')"}
+1. Brbić, M.; **Rožić, E.**; Podnar Žarko, I. [Recommendation of YouTube Videos](/files/Recommendation_of_YouTube_videos.pdf){: target="_blank"}. Proceedings of the 35<sup>th</sup> MIPRO International Convention, Opatija, Croatia (pp. 1775 -- 1779), IEEE Xplore (2012)
+{: reversed="reversed" id="papers_ol" style="display: none;"}
 
-<h3><!--PhD and -->Master Theses</h3>
-<p>
-Physics: <a href="/files/Eugen_Rozic_MSc_thesis_Physics.pdf" target="_blank">On Different Thermodynamical Pictures of Ensembles of Complex Networks</a>
-<ul>
-  <li>written in Croatian, but has an abstract in English on page 5</li>
-  <li>a publication based on the work done in the thesis is in preparation</li>
-</ul>
-</p>
-<p>
-ICT: <a href="/files/Eugen_Rozic_MSc_thesis_ICT.pdf" target="_blank">A Dynamic and Elastic Publish-Subscribe Service for the Cloud Environment</a>
-<ul>
-  <li>the developed code is the basis of the <a href="https://github.com/OpenIotOrg/openiot/tree/develop/modules/CUPUS" target="_blank">OpenIoT CUPUS module</a> (in Java)</li>
-</ul>
-</p>
+### Master Theses
+Physics: [On Different Thermodynamical Pictures of Ensembles of Complex Networks](/files/Eugen_Rozic_MSc_thesis_Physics.pdf){: target="_blank"}
+- written in Croatian, but has an abstract in English on page 5
+- a publication based on the work done in the thesis is in preparation
+
+ICT: [A Dynamic and Elastic Publish-Subscribe Service for the Cloud Environment](/files/Eugen_Rozic_MSc_thesis_ICT.pdf){: target="_blank"}
+- the developed code is the basis of the [OpenIoT CUPUS module](https://github.com/OpenIotOrg/openiot/tree/develop/modules/CUPUS){: target="_blank"} (in Java)

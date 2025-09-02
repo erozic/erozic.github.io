@@ -7,40 +7,29 @@ header: true
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 
-<p>
 TODO - popis područja istraživanja kojima sam se bavio s kratkim opisom...
-</p>
 
-<h3>Razni tekstovi i promišljanja</h3>
-<ul>
-  <li><a href="/en/science/LAMMPS_book_review.html">Extending and Modifying LAMMPS</a>, osvrt na knjigu (2021, na engleskom)</li>
-  <li><a href="/files/Topological_Defects_in_Physics.pdf" target="_blank" rel="noopener noreferrer">Topološki defekti u fizici</a>, pedagoški napisan pregledni esej (2017, na engleskom)</li>
-</ul>
+### Razni tekstovi i promišljanja
+- [Extending and Modifying LAMMPS](/en/science/LAMMPS_book_review.html), osvrt na knjigu (2021, na engleskom)
+- [Topološki defekti u fizici](/files/Topological_Defects_in_Physics.pdf){: target="_blank"}, pedagoški napisan pregledni esej (2017, na engleskom)
 
-<h3>Članci u znanstvenim časopisima</h3>
-<a href="#" onclick="toggleDisplay('articles_ol')">(pritisni da prikažeš/sakriješ popis članaka)</a>
-<ol reversed="reversed" id="articles_ol" style="display: none;">
-  <li><strong>E. Rožić</strong>, A. Šarić, <a href="#">A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS</a>, u pripremi</li>
-  <li><strong>E. Rožić</strong>, A. Šarić, <a href="#">A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids</a>, u pripremi</li>
-  <li><strong>E. Rožić</strong>, V. Zlatić, <a href="#">The Edges-as-Particles Thermodynamical Picture of Networks</a>, u pripremi</li>
-</ol>
+### Članci u znanstvenim časopisima
+[(pritisni da prikažeš/sakriješ popis članaka)](#){: onclick="toggleDisplay('articles_ol')"}
+3. **E. Rožić**, A. Šarić, [A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS](#), u pripremi
+2. **E. Rožić**, A. Šarić, [A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids](#), u pripremi
+1. **E. Rožić**, V. Zlatić, [The Edges-as-Particles Thermodynamical Picture of Networks](#), u pripremi
+{: reversed="reversed" id="articles_ol" style="display: none;"}
 
-<h3>Članci sa konferencija</h3>
-<ol reversed="reversed" id="papers_ol">
-  <li>Brbić, M.; <strong>Rožić, E.</strong>; Podnar Žarko, I. <a href="/files/Recommendation_of_YouTube_videos.pdf" target="_blank">Recommendation of YouTube Videos</a>. Proceedings of the 35<sup>th</sup> MIPRO International Convention, Opatija, Croatia (pp. 1775 -- 1779), IEEE Xplore (2012)</li>
-</ol>
+### Članci sa konferencija
+[(pritisni da prikažeš/sakriješ popis članaka)](#){: onclick="toggleDisplay('papers_ol')"}
+1. Brbić, M.; **Rožić, E.**; Podnar Žarko, I. [Recommendation of YouTube Videos](/files/Recommendation_of_YouTube_videos.pdf){: target="_blank"}. Proceedings of the 35<sup>th</sup> MIPRO International Convention, Opatija, Croatia (pp. 1775 -- 1779), IEEE Xplore (2012)
+{: reversed="reversed" id="papers_ol" style="display: none;"}
 
-<h3><!--PhD and -->Diplomski radovi</h3>
-<p>
-Fizika: <a href="/files/Eugen_Rozic_MSc_thesis_Physics.pdf" target="_blank">O različitim termodinamičkim slikama ansambala kompleksnih mreža</a>
-<ul>
-  <li>članak baziran na radu je u izradi</li>
-</ul>
-</p>
-<p>
-ICT: <a href="/files/Eugen_Rozic_MSc_thesis_ICT.pdf" target="_blank">Dinamična i elastična usluga objavi-pretplati u računalnom oblaku</a>
-<ul>
-  <li>rad je napisan na engleskom, ali ima sažetak na hrvatskom na zadnjoj stranici
-  <li>razvijeni kod (u Javi) je osnova CUPUS modula za <a href="https://github.com/OpenIotOrg/openiot/tree/develop/modules/CUPUS" target="_blank">OpenIoT</a> projekt</li>
-</ul>
-</p>
+### Diplomski radovi
+
+Fizika: [O različitim termodinamičkim slikama ansambala kompleksnih mreža](/files/Eugen_Rozic_MSc_thesis_Physics.pdf){: target="_blank"}
+- članak baziran na radu je u izradi
+
+ICT: [Dinamična i elastična usluga objavi-pretplati u računalnom oblaku](/files/Eugen_Rozic_MSc_thesis_ICT.pdf){: target="_blank"}
+- rad je napisan na engleskom, ali ima sažetak na hrvatskom na zadnjoj stranici
+- razvijeni kod (u Javi) je osnova CUPUS modula za [OpenIoT](https://github.com/OpenIotOrg/openiot/tree/develop/modules/CUPUS){: target="_blank"} projekt

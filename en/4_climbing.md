@@ -5,6 +5,4 @@ id: climbing
 permalink: /en/climbing/
 header: true
 ---
-<p>
 TODO - a list of routes I've climbed, reports, pictures, some other text perhaps ...
-</p>

@@ -1,10 +1,8 @@
 ---
 layout: page_en
-title: Teaching
-id: teaching
-permalink: /en/teaching/
+title: Education
+id: education
+permalink: /en/education/
 header: true
 ---
-<p>
 TODO - stuff related to teaching (scripts, materials, thoughts, ...) should be here (eventually...)
-</p>
