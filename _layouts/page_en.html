@@ -5,12 +5,13 @@ lang: en
 
 {% include sidebar_en.html %}
 
-<div class="page_container">
+<div id="page_container">
   
   {% include header_en.html %}
 
-  {{ content }}
-
-  {% include footer_en.html %}
+  <div id="page_content">
+    {{ content }}
+    {% include footer_en.html %}
+  </div>
 
 </div>

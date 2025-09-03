@@ -1,0 +1,34 @@
+#site_header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 1px solid $border-color;
+}
+#site_nav {
+  position: relative;
+}
+#site_nav > ul {
+  padding: 0px;
+  margin: 0px 0px 10px;
+  list-style: none;
+}
+#site_nav > ul > li {
+  display: inline;
+  margin-right: 30pt;
+}
+.header_link, .active_header_link {
+  font-size: 1.2em;
+  font-weight: normal;
+}
+.active_header_link {
+  color: $text-color;
+}
+#lang_link {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  color: $border-color;
+}
+#lang_link > a.active {
+  color: $text-color;
+}

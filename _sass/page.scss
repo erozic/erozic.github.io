@@ -1,7 +1,18 @@
+#page_container {
+  position: fixed;
+  top: 4em;
+  bottom: 4em;
+  overflow: hidden;
+  left: 30%;
+  width: 50%;
+}
 
-.page_container {
-  margin: 4em 15% 4em 30%;
-  width: 55%;
+#page_content {
+  padding-top: 10px;
+  height: calc(100% - (1.2em + 0.2em + 10px + 10px)); /*header + padding*/
+  overflow: auto;
+  scrollbar-width: thin; /*for FF and newer Chromiums etc.*/
+  -ms-overflow-style: thin; /*for IE 10+*/
 }
 
 h1,h2,h3,h4,h5,h6 {

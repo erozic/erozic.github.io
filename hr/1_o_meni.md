@@ -6,9 +6,8 @@ permalink: /hr/about/
 header: true
 ---
 <img src="/imgs/me.jpg" style="float:right; width:30%; padding:5px 0px 5px 20px">
-
 Zdravo!  
-Moje ime je Eugen (to sam ja na slici desno), po zvanju sam fizičar i inženjer IKT (čitaj: računalstva), a po zanimanju i pozivu nastavnik, odnosno učitelj. Idealno se zamišljam kao nastavnik fizike u gimnaziji, jer mislim i osjećam da to najviše odgovara mojim sposobnostima, znanju i interesima, ali sam privremeno nezaposlen da bi se, između ostalog, još malo bavio znanošću.  
+Moje ime je Eugen, po zvanju sam fizičar i inženjer IKT (čitaj: računalstva), a po zanimanju i pozivu nastavnik, odnosno učitelj. Idealno se zamišljam kao nastavnik fizike u gimnaziji, jer mislim i osjećam da to najviše odgovara mojim sposobnostima, znanju i interesima, ali sam privremeno nezaposlen da bi se, između ostalog, još malo bavio znanošću.  
 Za preživljavanje trenutno nudim instrukcije (iz fizike, matematike, informatike i svega srodnoga) onima koji ih trebaju. Ako ste Vi (ili vaše dijete) među njima, slobodno mi se javite e-mailom.
 
 Kratki pregled mog akademskog života je da sam završio preddiplomski studij računalstva i diplomski studij informacijske i komunikacijske tehnologije (ICT) na FER-u te integrirani preddiplomski i diplomski studij istraživačke fizike na PMF-u u Zagrebu. Nakon studija proveo sam godinu i pol dana na doktorskom studiju biofizike na UCL-u u Londonu, ali sam ga prekinuo prije završetka te se vratio u Zagreb kako bi ostvario ono što sam osjećao, i dalje osjećam, kao svoj poziv.  

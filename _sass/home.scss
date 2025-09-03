@@ -1,12 +1,15 @@
-
 #home_container {
-  margin: 4em 20% 4em 30%;
+  position: fixed;
+  top: 4em;
+  bottom: 4em;
+  left: 30%;
   width: 50%;
 }
 
 #welcome_slideshow {
   position: relative;
-  margin: 0px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   background-color: #000;
   width: 100%;
   // border-radius: 13px;

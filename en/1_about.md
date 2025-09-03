@@ -8,7 +8,7 @@ header: true
 <img src="/imgs/me.jpg" style="float:right; width:30%; padding:5px 0px 5px 20px">
 
 Hi there!  
-My name is Eugen (that's me on the right), I'm a physicist and a computer scientist by vocation and a school teacher by practice and calling. Ideally I see myself as a physics teacher on a secondary school level because I think and feel that it best fits my abilities, knowledge and interests, but I'm temporarily unemployed in order to be able to, among other things, still do a little more science.  
+My name is Eugen, I'm a physicist and a computer scientist by vocation and a school teacher by practice and calling. Ideally I see myself as a physics teacher on a secondary school level because I think and feel that it best fits my abilities, knowledge and interests, but I'm temporarily unemployed in order to be able to, among other things, still do a little more science.  
 To survive I'm currently open to giving tutoring (in physics, mathematics, informatics and all things related) to anyone who needs it. If you (or your child) are in that group please be free to contact me by e-mail.
 
 A short overview of my academic life so far is that I have completed a 3-year bachelor in computing, a 2-year master in ICT/CS <!--[FER](https://www.fer.unizg.hr/en){: target="_blank"}--> and a 5-year integrated master in research-oriented physics <!--[PMF](http://www.pmf.unizg.hr/phy/en){: target="_blank"}--> at the University of Zagreb. After that I spent a year and a half on a postgraduate program in biophysics at UCL London which I terminated prematurely and returned to Zagreb in order to achieve what I felt, and still feel, is my calling.  
