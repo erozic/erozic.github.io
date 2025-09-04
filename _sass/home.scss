@@ -1,9 +1,33 @@
+#home_sidebar {
+  position: fixed;
+  top: 3.6em;
+  bottom: 0;
+  overflow: auto;
+  scrollbar-width: none; /*for FF and newer Chromiums etc.*/
+  -ms-overflow-style: none; /*for IE 10+*/
+  left: 8%;
+  width: 14%;
+  text-align: center;
+}
+#sidebar_notification {
+  margin-top: 100px;
+  line-height: 1.5em;
+  font-size: 1.1em;
+}
+#sidebar_notification > h2 {
+  margin-bottom: 10px;
+  font-size: 1.5em;
+}
+
 #home_container {
   position: fixed;
   top: 4em;
-  bottom: 4em;
+  bottom: 0;
   left: 30%;
   width: 50%;
+  overflow: auto;
+  scrollbar-width: none; /*for FF and newer Chromiums etc.*/
+  -ms-overflow-style: none; /*for IE 10+*/
 }
 
 #welcome_slideshow {

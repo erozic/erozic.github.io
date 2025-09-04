@@ -4,17 +4,23 @@
   background-color: white;
   border-bottom: 1px solid $border-color;
 }
-#site_nav {
-  position: relative;
-}
-#site_nav > ul {
+#site_header > table {
+  width: 100%;
   padding: 0px;
   margin: 0px 0px 10px;
-  list-style: none;
+  table-layout: fixed;
+  text-align: center;
+  border-collapse: collapse;
 }
-#site_nav > ul > li {
-  display: inline;
-  margin-right: 30pt;
+#site_header > table td {
+  border-left: 1px solid $border_color;
+  border-right: 1px solid $border_color;
+}
+#site_header > table td:first-child {
+  border-left: 0;
+}
+#site_header > table td:last-child {
+  border-right: 0;
 }
 .header_link, .active_header_link {
   font-size: 1.2em;

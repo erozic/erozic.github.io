@@ -1,18 +1,16 @@
 #page_container {
   position: fixed;
   top: 4em;
-  bottom: 4em;
-  overflow: hidden;
+  bottom: 0;
   left: 30%;
-  width: 50%;
+  width: 40%;
+  overflow: auto;
+  scrollbar-width: none; /*for FF and newer Chromiums etc.*/
+  -ms-overflow-style: none; /*for IE 10+*/
 }
 
 #page_content {
-  padding-top: 10px;
-  height: calc(100% - (1.2em + 0.2em + 10px + 10px)); /*header + padding*/
-  overflow: auto;
-  scrollbar-width: thin; /*for FF and newer Chromiums etc.*/
-  -ms-overflow-style: thin; /*for IE 10+*/
+  /*padding-top: 10px;*/
 }
 
 h1,h2,h3,h4,h5,h6 {

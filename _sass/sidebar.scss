@@ -1,4 +1,4 @@
-#sidebar {
+#page_sidebar {
   position: fixed;
   top: 3.6em;
   bottom: 0;
@@ -27,7 +27,7 @@
   letter-spacing: 3px;
 }
 #sidebar_title > h2 {
-  margin: 0px;
+  margin-top: 5px;
   font-size: 1.2em;
   font-weight: normal;
 }
@@ -39,7 +39,7 @@
 }
 /*---------------------------------------*/
 #sidebar_link_group {
-  margin: 0 10px 75px 10px;
+  margin: 0 10px 0 10px;
   padding: 5px 10px;
   vertical-align: middle;
   border: 1px solid $text-color;
@@ -68,13 +68,4 @@
   vertical-align: 0.15em;
   margin-left: -0.36em;
   margin-right: -0.15em;
-}
-/*---------------------------------------*/
-#sidebar_notification {
-  line-height: 1.5em;
-  font-size: 1.1em;
-}
-#sidebar_notification > h2 {
-  margin-bottom: 10px;
-  font-size: 1.5em;
 }

@@ -5,7 +5,7 @@ id: about
 permalink: /en/about/
 header: true
 ---
-<img src="/imgs/me.jpg" style="float:right; width:30%; padding:5px 0px 5px 20px">
+<img src="/imgs/me.jpg" style="float:right; width:33%; padding:5px 0px 5px 20px">
 
 Hi there!  
 My name is Eugen, I'm a physicist and a computer scientist by vocation and a school teacher by practice and calling. Ideally I see myself as a physics teacher on a secondary school level because I think and feel that it best fits my abilities, knowledge and interests, but I'm temporarily unemployed in order to be able to, among other things, still do a little more science.  

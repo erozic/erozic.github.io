@@ -1,18 +1,17 @@
 <header id="site_header">
-  <nav id="site_nav">
-    <ul>
-      {% for site_page in site.pages %}
-        {% if site_page.header == true and site_page.lang == "hr" %}
-      <li><a {% if site_page.id == page.id %}
-              class="active_header_link"
-             {% else %}
-              class="header_link"
-             {% endif %}
-             href="{{ site_page.url }}">{{ site_page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </nav>
+  <table><tr>
+  {% for site_page in site.html_pages %}
+    {% if site_page.header == true and site_page.lang == "hr" %}
+    <td><a {% if site_page.id == page.id %}
+      class="active_header_link"
+      {% else %}
+      class="header_link"
+      {% endif %}
+      href="{{ site_page.url }}">{{ site_page.title }}</a>
+    </td>
+    {% endif %}
+  {% endfor %}
+  </tr></table>
 </header>
 <div id="lang_link">
   <a class="active" href="{{ page.url | replace: '/en/', '/hr/'}}">hrvatski</a>

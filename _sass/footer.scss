@@ -1,16 +1,16 @@
 #site_footer {
   width: 100%;
-  margin-top: 25px;
+  margin-top: 15px;
   border-top: 1px solid $border-color;
+  margin-bottom: 4em;
 }
-#site_footer > ul {
+#site_footer > table {
+  width: 100%;
   padding: 0px;
   margin: 10px 0 0;
-  list-style: none;
-}
-#site_footer > ul > li {
-  display: inline;
-  margin-right: 30pt;
+  table-layout: fixed;
+  text-align: center;
+  border-collapse: collapse;
 }
 .footer_link {
   font-weight: bold;
