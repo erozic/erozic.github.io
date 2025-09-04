@@ -28,7 +28,6 @@ redirect_from:
     {% for photo in site.data.welcome_pics %}
     <img class="welcome_pic" src="{{ photo.path }}" title="{{ photo.title_hr }}" style="display: none;"/>
     {% endfor %}
-
     <button class="slideshow_bttn" id="home_bttn_left" onclick="prevImg()">&#10094;</button>
     <button class="slideshow_bttn" id="home_bttn_right" onclick="nextImg()">&#10095;</button>
     <script src="/scripts/slideshow.js"></script>

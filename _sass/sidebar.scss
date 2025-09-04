@@ -7,6 +7,9 @@
   -ms-overflow-style: none; /*for IE 10+*/
   left: 8%;
   width: 14%;
+  min-width: 150px;
+  background-color: white;
+  z-index: 1000;
   text-align: center;
 }
 /*---------------------------------------*/

@@ -7,6 +7,9 @@
   -ms-overflow-style: none; /*for IE 10+*/
   left: 8%;
   width: 14%;
+  min-width: 150px;
+  background-color: white;
+  z-index: 1000;
   text-align: center;
 }
 #sidebar_notification {
@@ -25,6 +28,7 @@
   bottom: 0;
   left: 30%;
   width: 50%;
+  min-width: 500px;
   overflow: auto;
   scrollbar-width: none; /*for FF and newer Chromiums etc.*/
   -ms-overflow-style: none; /*for IE 10+*/
@@ -32,10 +36,10 @@
 
 #welcome_slideshow {
   position: relative;
+  width: 100%;
   margin-top: 30px;
   margin-bottom: 30px;
   background-color: #000;
-  width: 100%;
   // border-radius: 13px;
 }
 #welcome_slideshow:hover > #home_bttn_left {display: inline-block;}
@@ -49,7 +53,8 @@
 
 .slideshow_bttn {
   border: none;
-  padding: 8px 16px;
+  opacity: 0.5;
+  padding: 10px 16px 14px 16px;
   vertical-align: middle;
   text-align: center;
   font-size: 1.5em;
