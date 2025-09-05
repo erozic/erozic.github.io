@@ -11,11 +11,26 @@ menu:
   Matematika:
     link: ["#math", onsite]
     Natjecanja: [/hr/teaching/math-comps, onsite]
-  Informatika / računarstvo:
+  Informatika / računalstvo:
     link: ["#comp", onsite]
   Elektrotehnika:
     link: ["#ee", onsite]
 ---
-TODO:
- - filozofija nastave / instrukcija ...
- - dijelovi stranice (po predmetima) s materijalima i linkovima
+TODO: filozofija nastave / instrukcija ...
+
+## Fizika <a name="physics"></a>
+
+TODO: Materijali, linkovi itd.
+
+## Matematika <a name="math"></a>
+
+TODO: Materijali, linkovi itd.
+
+## Informatika / računalstvo <a name="comp"></a>
+
+TODO: Materijali, linkovi itd.
+
+## Elektrotehnika <a name="ee"></a>
+
+TODO: Materijali, linkovi itd.
+

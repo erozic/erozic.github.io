@@ -20,9 +20,9 @@ TODO: list of research areas I'm engaged with along with short descriptions...
 
 ### Journal Articles
 [(click to show/hide the list of articles)](#){: onclick="toggleDisplay('articles_ol')"}
-3. **E. Rožić**, A. Šarić, [A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS](#), in preparation
-2. **E. Rožić**, A. Šarić, [A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids](#), in preparation
-1. **E. Rožić**, V. Zlatić, [The Edges-as-Particles Thermodynamical Picture of Networks](#), in preparation
+3. **E. Rožić**, A. Šarić, [A coarse-grained model of amyloidogenic proteins for LAMMPS](#), in preparation
+2. **E. Rožić**, A. Šarić, [A hybrid MD/MC approach for coarse-grained multi-state molecules](#), in preparation
+1. **E. Rožić**, [The Edges-as-Particles Thermodynamical Picture of Networks](#), in preparation
 {: reversed="reversed" id="articles_ol" style="display: none;"}
 
 ### Conference and Workshop Papers

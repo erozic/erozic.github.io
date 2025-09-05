@@ -20,9 +20,9 @@ TODO: popis područja istraživanja kojima sam se bavio s kratkim opisom...
 
 ### Članci u znanstvenim časopisima
 [(pritisni da prikažeš/sakriješ popis članaka)](#){: onclick="toggleDisplay('articles_ol')"}
-3. **E. Rožić**, A. Šarić, [A  coarse-grained  model  of amyloidogenic  proteins  for  LAMMPS](#), u pripremi
-2. **E. Rožić**, A. Šarić, [A  hybrid  MD/MC  approach  for  coarse-grained  multi-state  molecules: The case of amyloids](#), u pripremi
-1. **E. Rožić**, V. Zlatić, [The Edges-as-Particles Thermodynamical Picture of Networks](#), u pripremi
+3. **E. Rožić**, A. Šarić, [A coarse-grained model of amyloidogenic proteins for LAMMPS](#), u pripremi
+2. **E. Rožić**, A. Šarić, [A hybrid MD/MC approach for coarse-grained multi-state molecules](#), u pripremi
+1. **E. Rožić**, [The Edges-as-Particles Thermodynamical Picture of Networks](#), u pripremi
 {: reversed="reversed" id="articles_ol" style="display: none;"}
 
 ### Članci sa konferencija

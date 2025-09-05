@@ -13,9 +13,6 @@
   text-align: center;
 }
 /*---------------------------------------*/
-#sidebar_title {
-  margin-bottom: 50px;
-}
 #sidebar_title > h1 {
   margin: 0px;
   font-size: 2.2em;
@@ -34,20 +31,13 @@
   font-size: 1.2em;
   font-weight: normal;
 }
-#sidebar_title > h3 {
-  margin-top: 5px;
-  line-height: 1.6em;
-  font-size: 1.1em;
-  font-weight: normal;
-}
 /*---------------------------------------*/
 #sidebar_menu {
-  margin: 0 10px 0 10px;
+  margin: 50px 10px 0 10px;
   padding: 5px 10px;
   vertical-align: middle;
   border: 1px solid $text-color;
   border-radius: 5px;
-  text-align: center;
 }
 #sidebar_menu > .level1 {
   font-size: 1.1em;

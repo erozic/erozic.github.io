@@ -10,7 +10,7 @@ menu:
   Matematika:
     link: ["./#math", onsite]
     Natjecanja: [/hr/teaching/math-comps, onsite]
-  Informatika / računarstvo:
+  Informatika / računalstvo:
     link: ["./#comp", onsite]
   Elektrotehnika:
     link: ["./#ee", onsite]
