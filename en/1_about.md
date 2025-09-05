@@ -4,8 +4,12 @@ title: About me
 id: about
 permalink: /en/about/
 header: true
+menu:
+  Curriculum Vitae:
+    link: [/files/CV_full_engl.pdf, file]
+    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV template: [/files/CV_template.zip, file]
 ---
-<img src="/imgs/me.jpg" style="float:right; width:200px; padding:5px 0px 5px 20px">
+<img src="/imgs/me.jpg" style="float:right; width:175px; padding:5px 0px 5px 20px">
 
 Hi there!  
 My name is Eugen, I'm a physicist and a computer scientist by vocation and a school teacher by practice and calling. Ideally I see myself as a physics teacher on a secondary school level because I think and feel that it best fits my abilities, knowledge and interests, but I'm temporarily unemployed in order to be able to, among other things, still do a little more science.  

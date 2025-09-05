@@ -4,8 +4,12 @@ title: O meni
 id: o_meni
 permalink: /hr/about/
 header: true
+menu:
+  Životopis:
+    link: [/files/CV_full_hrv.pdf, file]
+    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV predložak: [/files/CV_template.zip, file]
 ---
-<img src="/imgs/me.jpg" style="float:right; width:200px; padding:5px 0px 5px 20px">
+<img src="/imgs/me.jpg" style="float:right; width:175px; padding:5px 0px 5px 20px">
 Zdravo!  
 Moje ime je Eugen, po zvanju sam fizičar i inženjer IKT (čitaj: računalstva), a po zanimanju i pozivu nastavnik, odnosno učitelj. Idealno se zamišljam kao nastavnik fizike u gimnaziji, jer mislim i osjećam da to najviše odgovara mojim sposobnostima, znanju i interesima, ali sam privremeno nezaposlen da bi se, između ostalog, još malo bavio znanošću.  
 Za preživljavanje trenutno nudim instrukcije (iz fizike, matematike, informatike i svega srodnoga) onima koji ih trebaju. Ako ste Vi (ili vaše dijete) među njima, slobodno mi se javite e-mailom.

@@ -5,6 +5,11 @@ date: March 3rd, 2021
 author: Eugen
 category: research
 tags: [simulations, LAMMPS]
+menu:
+  MD/MC simulations (LAMMPS):
+    link: [/en/research/simulations, onsite]
+  Political science:
+    link: [/en/research/politics, onsite]
 ---
 ## An introduction: The pitfalls of research programming or <br/> Why you should use LAMMPS
 

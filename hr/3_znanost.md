@@ -2,15 +2,20 @@
 layout: page_hr
 title: Znanost
 id: znanost
-permalink: /hr/science/
+permalink: /hr/research/
 header: true
+menu:
+  MD/MC simulacije (LAMMPS):
+    link: [/hr/research/simulations, onsite]
+  Politička znanost:
+    link: [/hr/research/politics, onsite]
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 
-TODO - popis područja istraživanja kojima sam se bavio s kratkim opisom...
+TODO: popis područja istraživanja kojima sam se bavio s kratkim opisom...
 
 ### Razni tekstovi i promišljanja
-- [Extending and Modifying LAMMPS](/en/science/LAMMPS_book_review.html), osvrt na knjigu (2021, na engleskom)
+- [Extending and Modifying LAMMPS](/en/research/LAMMPS_book_review.html), osvrt na knjigu (2021, na engleskom)
 - [Topološki defekti u fizici](/files/Topological_Defects_in_Physics.pdf){: target="_blank"}, pedagoški napisan pregledni esej (2017, na engleskom)
 
 ### Članci u znanstvenim časopisima

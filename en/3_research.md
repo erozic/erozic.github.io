@@ -1,16 +1,21 @@
 ---
 layout: page_en
-title: Science
-id: science
-permalink: /en/science/
+title: Research
+id: research
+permalink: /en/research/
 header: true
+menu:
+  MD/MC simulations (LAMMPS):
+    link: [/en/research/simulations, onsite]
+  Political science:
+    link: [/en/research/politics, onsite]
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 
-TODO - list of research areas I engaged with along with short descriptions...
+TODO: list of research areas I'm engaged with along with short descriptions...
 
 ### Various texts and thoughts
-- [Extending and Modifying LAMMPS](/en/science/LAMMPS_book_review.html), a book review (2021)
+- [Extending and Modifying LAMMPS](LAMMPS_book_review.html), a book review (2021)
 - [Topological Defects in Physics](/files/Topological_Defects_in_Physics.pdf){: target="_blank"}, a pedagogically written overview essay (2017)
 
 ### Journal Articles

@@ -41,21 +41,27 @@
   font-weight: normal;
 }
 /*---------------------------------------*/
-#sidebar_link_group {
+#sidebar_menu {
   margin: 0 10px 0 10px;
   padding: 5px 10px;
   vertical-align: middle;
   border: 1px solid $text-color;
   border-radius: 5px;
+  text-align: center;
 }
-#sidebar_link_group > a {
-  font-size: 1.0em;
-}
-#sidebar_link_group > a.important {
+#sidebar_menu > .level1 {
   font-size: 1.1em;
+  line-height: 1.5em;
 }
-#sidebar_link_group > hr {
-  margin: 5px 0px;
+#sidebar_menu > .level2 {
+  font-size: 1.0em;
+  line-height: 1.5em;
+}
+#sidebar_menu > .level2 a {
+  color: $text_color;
+}
+#sidebar_menu > hr {
+  margin: 5px 0 5px 0;
   border-width: 1px 0px 0px;
   border-top-color: $text-color;
 }
