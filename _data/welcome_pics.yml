@@ -1,19 +1,19 @@
   - path: /imgs/welcome_pics/1.jpg
-    title_hr: "kondenzacija-oblaci (Mangrt, Slovenija)"
-    title_en: "condensation-clouds (Mangrt, Slovenia)"
+    title_hr: "kondenzacija (Mangrt, Slovenija)"
+    title_en: "condensation (Mangrt, Slovenia)"
    
   - path: /imgs/welcome_pics/2.jpg
     title_hr: "totalna refleksija (Inch Beach, Irska)"
     title_en: "total reflection (Inch Beach, Ireland)"
 
   - path: /imgs/welcome_pics/3.jpg
-    title_hr: "refrakcija-duga (Vamos a la Playa, Ravni Dabar)"
-    title_en: "refraction-rainbow (Vamos a la Playa, Ravni Dabar, Croatia)"
+    title_hr: "lom/refleksija (Vamos a la Playa, Ravni Dabar)"
+    title_en: "refraction/reflection (Vamos a la Playa, Ravni Dabar, Croatia)"
 
   - path: /imgs/welcome_pics/4.jpg
     title_hr: "samosličnost (Paklenica)"
     title_en: "self-similarity (Paklenica, Croatia)"
 
   - path: /imgs/welcome_pics/5.jpg
-    title_hr: "raspršenje-zalazak (Vošac, Biokovo)"
-    title_en: "scattering-sunset (Vošac, Biokovo, Croatia)"
+    title_hr: "Rayleighevo raspršenje (Vošac, Biokovo)"
+    title_en: "Rayleigh scattering (Vošac, Biokovo, Croatia)"

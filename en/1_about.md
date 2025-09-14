@@ -6,8 +6,8 @@ permalink: /en/about/
 header: true
 menu:
   Curriculum Vitae:
-    link: [/files/CV_full_engl.pdf, file]
-    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV template: [/files/CV_template.zip, file]
+    link: [/files/about/CV_full_engl.pdf, file]
+    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV template: [/files/about/CV_template.zip, file]
 ---
 <img src="/imgs/me.jpg" style="float:right; width:175px; padding:5px 0px 5px 20px">
 
@@ -19,8 +19,8 @@ A short overview of my academic life so far is that I have completed a 3-year ba
 After my return from London I started teaching in croatian schools, acquired pedagogical competences and became a certified school teacher by passing the state exam in 2020. Since then I've been more-or-less constantly employed as a teacher, with minor excursions into science with which I still have a loose relationship.  
 Among many other things that interest me and that I have dabbled in during my life, currently the most prominent are political philosophy, and history and philosophy of science and education, in the intellectual realm, in the realm of art it's almost exclusively music (in various passive and active forms) and in the sports and recreation category it is climbing and hiking, and karting and F1.
 
-More (information, thoughts, useful materials etc.) about the more important aspects of my life can be found on dedicated subpages (links on the top of the page), and more details about my qualifications, various work and volunteering experiences and me personally can be found in my [CV](/files/CV_full_engl.pdf){: target="_blank"}.  
-For those who like the format and design of the CV I have prepared a documented [template](/files/CV_template.zip){: target="_blank"} that an average LaTeX user should be able to adapt to their needs relatively easily.
+More (information, thoughts, useful materials etc.) about the more important aspects of my life can be found on dedicated subpages (links on the top of the page), and more details about my qualifications, various work and volunteering experiences and me personally can be found in my [CV](/files/about/CV_full_engl.pdf){: target="_blank"}.  
+For those who like the format and design of the CV I have prepared a documented [template](/files/about/CV_template.zip){: target="_blank"} that an average LaTeX user should be able to adapt to their needs relatively easily.
 
 #### My name
 

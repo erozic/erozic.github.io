@@ -32,7 +32,7 @@ I like to read slowly and think a lot, so I like books that are as short as poss
 One last piece of possibly relevant information: I read this book on my laptop as a PDF file and had no visual or technical problems with it (except maybe with the code snippets, I touch on that at end of next section).
 
 ## The book
-<img src="/imgs/LAMMPS book cover.png" style="float:right; width:40%; padding:5px 0px 5px 20px">
+<img src="/imgs/research/LAMMPS book cover.png" style="float:right; width:40%; padding:5px 0px 5px 20px">
 
 *Extending and Modifying LAMMPS* is a technical book that assumes you, the reader, have used LAMMPS in at least some basic capacity and that you have a grasp of and some experience with the C programming language, but beyond that it takes you by the hand, so to speak, and leads you gently, step by step through the logic and structure of LAMMPS. It shows to you exactly what you need to most quickly understand how LAMMPS works and start adding to it and modifying it in useful ways, while abstracting away and ignoring irrelevant details that you will figure out yourself if and when you'll need to. I think it does a great job of showing you (only) the important things and balancing textual explanations with code examples, which is why the book is not bulky and reads easily.
 

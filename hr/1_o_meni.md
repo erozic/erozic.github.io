@@ -6,8 +6,8 @@ permalink: /hr/about/
 header: true
 menu:
   Životopis:
-    link: [/files/CV_full_hrv.pdf, file]
-    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV predložak: [/files/CV_template.zip, file]
+    link: [/files/about/CV_full_hrv.pdf, file]
+    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV predložak: [/files/about/CV_template.zip, file]
 ---
 <img src="/imgs/me.jpg" style="float:right; width:175px; padding:5px 0px 5px 20px">
 Zdravo!  
@@ -18,8 +18,8 @@ Kratki pregled mog akademskog života je da sam završio preddiplomski studij ra
 Nakon povratka iz Londona zaposlio sam se u školstvu te stekao pedagoške kompetencije i nastavničko zvanje polaganjem stručnog ispita 2020. godine. Od onda sam više-manje stalno zaposlen u školstvu, uz kraće ekskurzije u znanost s kojom još uvijek imam neku labavu vezu.  
 Među mnogim ostalim stvarima koje me interesiraju i kojima sam se kroz život bavio trenutno najistaknutije mjesto zauzimaju politička filozofija te povijest i filozofija znanosti i obrazovanja, u intelektualnoj sferi, u umjetničkoj sferi gotovo isključivo glazba (u raznim pasivnim i aktivnim oblicima), a u području sporta i rekreacije penjanje i planinarenje te karting i F1.
 
-Više (informacija, mišljenja, korisnih materijala, ...) o pojedinim bitnim aspektima mojeg života može se pronaći u njima posvećenim podstranicama (poveznice na vrhu stranice), a više i detaljnije o mojem obrazovnom putu, raznom radnom i volonterskom iskustvu te meni osobno može se saznati iz mojeg [životopisa](/files/CV_full_hrv.pdf){: target="_blank"}.  
-Za one kojima se sviđa dizajn životopisa, pripremio sam dokumentirani [predložak](/files/CV_template.zip){: target="_blank"} kojega bi prosječan LaTeX korisnik trebao moći relativno lako prilagoditi svojim potrebama.
+Više (informacija, mišljenja, korisnih materijala, ...) o pojedinim bitnim aspektima mojeg života može se pronaći u njima posvećenim podstranicama (poveznice na vrhu stranice), a više i detaljnije o mojem obrazovnom putu, raznom radnom i volonterskom iskustvu te meni osobno može se saznati iz mojeg [životopisa](/files/about/CV_full_hrv.pdf){: target="_blank"}.  
+Za one kojima se sviđa dizajn životopisa, pripremio sam dokumentirani [predložak](/files/about/CV_template.zip){: target="_blank"} kojega bi prosječan LaTeX korisnik trebao moći relativno lako prilagoditi svojim potrebama.
 
 #### O web stranici
 
