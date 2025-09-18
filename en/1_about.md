@@ -1,13 +1,9 @@
 ---
-layout: page_en
+layout: about_en
 title: About me
 id: about
 permalink: /en/about/
 header: true
-menu:
-  Curriculum Vitae:
-    link: [/files/about/CV_full_engl.pdf, file]
-    <span id="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span> CV template: [/files/about/CV_template.zip, file]
 ---
 <img src="/imgs/me.jpg" style="float:right; width:175px; padding:5px 0px 5px 20px">
 
@@ -19,13 +15,13 @@ A short overview of my academic life so far is that I have completed a 3-year ba
 After my return from London I started teaching in croatian schools, acquired pedagogical competences and became a certified school teacher by passing the state exam in 2020. Since then I've been more-or-less constantly employed as a teacher, with minor excursions into science with which I still have a loose relationship.  
 Among many other things that interest me and that I have dabbled in during my life, currently the most prominent are political philosophy, and history and philosophy of science and education, in the intellectual realm, in the realm of art it's almost exclusively music (in various passive and active forms) and in the sports and recreation category it is climbing and hiking, and karting and F1.
 
-More (information, thoughts, useful materials etc.) about the more important aspects of my life can be found on dedicated subpages (links on the top of the page), and more details about my qualifications, various work and volunteering experiences and me personally can be found in my [CV](/files/about/CV_full_engl.pdf){: target="_blank"}.  
+More (information, thoughts, useful materials etc.) about the more important aspects of my life can be found on dedicated subpages (links on the top of the page), and more details about my qualifications, various work and volunteering experiences and me personally can be found in my [CV](/files/about/CV_full_engl.pdf){: target="_blank"}.
 For those who like the format and design of the CV I have prepared a documented [template](/files/about/CV_template.zip){: target="_blank"} that an average LaTeX user should be able to adapt to their needs relatively easily.
 
-#### My name
+### My name
 
 Croatian is a bit of a difficult and weird language for most people, a typical Slavic language. What is good about it is that it has phonological orthography, meaning basically that every letter has a sound and only that sound, regardless of its position in a word. So if you know how to pronounce "e", "u", "g" and "n" in Croatian then you know how to say my name! This is why I wrote my name in IPA and made it a link to a pronunciation guide for English. Anyway, this is all just for fun and learning, you can go ahead and just call me /juːdʒiːn/ (Eugene in English).
 
-#### About this website
+### About this website
 
 This site is hosted by [Github pages](https://pages.github.com/){: target="_blank"} and uses [Jekyll](https://jekyllrb.com/docs/home/){: target="_blank"}, a static page generator. The design is by me and the website code is available in the appropriately named [Github repository](https://github.com/erozic/erozic.github.io){: target="_blank"} for everyone to see and use however they like :)

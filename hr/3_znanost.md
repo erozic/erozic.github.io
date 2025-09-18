@@ -1,14 +1,9 @@
 ---
-layout: page_hr
+layout: research_hr
 title: Znanost
 id: znanost
 permalink: /hr/research/
 header: true
-menu:
-  MD/MC simulacije (LAMMPS):
-    link: [/hr/research/simulations, onsite]
-  Politička znanost:
-    link: [/hr/research/politics, onsite]
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 

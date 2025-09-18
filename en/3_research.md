@@ -1,14 +1,9 @@
 ---
-layout: page_en
+layout: research_en
 title: Research
 id: research
 permalink: /en/research/
 header: true
-menu:
-  MD/MC simulations (LAMMPS):
-    link: [/en/research/simulations, onsite]
-  Political science:
-    link: [/en/research/politics, onsite]
 ---
 <script src="/scripts/toggleDisplay.js"></script>
 

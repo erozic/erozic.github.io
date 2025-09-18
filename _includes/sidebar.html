@@ -2,15 +2,18 @@
 
   {% include sidebar_title.html %}
 
-  {% if page.menu %}
+  {% if layout.menu %}
   <div id="sidebar_menu">
-  {% for element in page.menu %}
+  {% for element in layout.menu %}
     <div class="level1">
     <a href="{{ element[1].link[0] }}" 
     {% if element[1].link[1] == "file" or element[1].link[1] == "offsite" %}
     target="_blank"
     {% else %}
     target="_self"
+    {% endif %}
+    {% if page.url contains element[1].link[0] %}
+    class="active"
     {% endif %}
     >{{ element[0] }}</a><br>
     </div>

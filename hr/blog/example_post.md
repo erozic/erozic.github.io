@@ -1,5 +1,5 @@
 ---
-layout: post_hr
+layout: blog_hr
 title: "Primjer"
 date: 1. siječnja 2025.
 author: Eugen

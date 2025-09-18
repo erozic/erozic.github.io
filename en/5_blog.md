@@ -1,5 +1,5 @@
 ---
-layout: page_en
+layout: blog_en
 title: Blog
 id: blog
 permalink: /en/blog/

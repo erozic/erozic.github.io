@@ -1,5 +1,5 @@
 ---
-layout: page_en
+layout: teaching_en
 title: Teaching
 id: teaching
 permalink: /en/teaching/

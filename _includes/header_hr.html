@@ -2,11 +2,7 @@
   <table><tr>
   {% for site_page in site.html_pages %}
     {% if site_page.header == true and site_page.lang == "hr" %}
-    <td><a {% if site_page.id == page.id %}
-      class="active_header_link"
-      {% else %}
-      class="header_link"
-      {% endif %}
+    <td><a class="header_link{% if page.url contains site_page.url %} active{% endif %}"
       href="{{ site_page.url }}">{{ site_page.title }}</a>
     </td>
     {% endif %}

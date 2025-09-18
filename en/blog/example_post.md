@@ -1,5 +1,5 @@
 ---
-layout: post_en
+layout: blog_en
 title: "Example"
 date: Jaunary 1st, 2025
 author: Eugen

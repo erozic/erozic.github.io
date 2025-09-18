@@ -1,16 +1,14 @@
 ---
-layout: post_en
+layout: research_en
 title: "Book review: Extending and Modifying LAMMPS"
 date: March 3rd, 2021
 author: Eugen
 category: research
 tags: [simulations, LAMMPS]
-menu:
-  MD/MC simulations (LAMMPS):
-    link: [/en/research/simulations, onsite]
-  Political science:
-    link: [/en/research/politics, onsite]
 ---
+# {{ page.title }}
+<span class="post_date">{{ page.date }}</span> (<span class="post_author">{{ page.author }}</span>)
+
 ## An introduction: The pitfalls of research programming or <br/> Why you should use LAMMPS
 
 I strongly believe that properly engineered, documented and maintained open-source software should be used in scientific research whenever possible, especially if it is already established and time-proven in a large community. I probably have a very strong opinion on this because of my formal education and background in software engineering, that is to say I've seen a lot of bad programming and I know what the consequences can be and often are. In any case, this is why I am a big supporter of LAMMPS and encourage anyone who has a need to perform MD or any other kind of simulations to look into LAMMPS before starting to write any code of their own or using some "home-made", in-group developed "software".

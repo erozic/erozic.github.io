@@ -1,20 +1,9 @@
 ---
-layout: page_hr
+layout: teaching_hr
 title: Nastava
 id: nastava
 permalink: /hr/teaching/
 header: true
-menu:
-  Fizika:
-    link: ["#physics", onsite]
-    Natjecanja: [/hr/teaching/physics-comps, onsite]
-  Matematika:
-    link: ["#math", onsite]
-    Natjecanja: [/hr/teaching/math-comps, onsite]
-  Informatika / računalstvo:
-    link: ["#comp", onsite]
-  Elektrotehnika:
-    link: ["#ee", onsite]
 ---
 TODO: filozofija nastave / instrukcija ...
 
@@ -22,7 +11,11 @@ TODO: filozofija nastave / instrukcija ...
 
 TODO: Materijali, linkovi itd.
 
-## Matematika <a name="math"></a>
+### Natjecanja iz fizike
+
+TODO: nacionalna (komentar, [zadaci s natjecanja](http://vinkovic.org/Projects/MindExercises/index_03.php)), IYPT (komentar, [ICM](https://iypt.icm.hr/), ...)
+
+## Osnove elektrotehnike <a name="ee"></a>
 
 TODO: Materijali, linkovi itd.
 
@@ -30,7 +23,10 @@ TODO: Materijali, linkovi itd.
 
 TODO: Materijali, linkovi itd.
 
-## Elektrotehnika <a name="ee"></a>
+## Ostali tehnički predmeti <a name="other"></a>
 
-TODO: Materijali, linkovi itd.
+TODO: Skripte za M5 i M11, materijali iz osnova elektronike ...
 
+## Kutak za nastavnike / učitelje <a name="teachers"></a>
+
+TODO: obrazac za GIK i slično...

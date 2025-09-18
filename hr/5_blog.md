@@ -1,5 +1,5 @@
 ---
-layout: page_hr
+layout: blog_hr
 title: Blog
 id: blog
 permalink: /hr/blog/

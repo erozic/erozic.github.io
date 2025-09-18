@@ -1,18 +1,9 @@
 ---
-layout: page_en
+layout: hobbies_en
 title: Hobbies
 id: hobbies
 permalink: /en/hobbies/
 header: true
-menu:
-  Climbing:
-    link: ["#climbing", onsite]
-    Geronimo (first ascent): ["#geronimo", onsite]
-  Hiking:
-    link: ["#hiking", onsite]
-  Music:
-    link: ["#music", onsite]
-    Drum transcriptions : ["#drum_sheets", onsite]
 ---
 TODO: in general (what I do/did and why I do/did it)
 

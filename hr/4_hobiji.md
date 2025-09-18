@@ -1,18 +1,9 @@
 ---
-layout: page_hr
+layout: hobbies_hr
 title: Hobiji
 id: hobiji
 permalink: /hr/hobbies/
 header: true
-menu:
-  Penjanje:
-    link: ["#climbing", onsite]
-    Geronimo (prvenstveni): ["#geronimo", onsite]
-  Planinarenje:
-    link: ["#hiking", onsite]
-  Glazba:
-    link: ["#music", onsite]
-    Note za bubnjeve: ["#drum_sheets", onsite]
 ---
 TODO: općenito (što radim/sam radio i zašto to radim/sam radio)
 
