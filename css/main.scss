@@ -22,5 +22,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+a.active {
+  color: $text-color;
+  text-decoration: underline;
+}
+
+h3 {
+  margin-top: 1.5em;
+}
 
 @import "sidebar", "header", "footer", "home", "page", "post", "404";

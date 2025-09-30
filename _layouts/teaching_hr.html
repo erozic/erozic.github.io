@@ -2,15 +2,31 @@
 layout: page_hr
 menu:
   Fizika:
-    link: ["/hr/teaching/#physics", onsite]
-  Elektrotehnika:
-    link: ["/hr/teaching/#ee", onsite]
-  Informatika / računalstvo:
-    link: ["/hr/teaching/#comp", onsite]
-  Ostali predmeti:
-    link: ["/hr/teaching/#other", onsite]
+    link: ["/hr/teaching/physics", onsite]
+    Predavanja: ["/hr/teaching/physics/#lectures", onsite]
+    Zadaci: ["/hr/teaching/physics/#problems", onsite]
+    Vježbe: ["/hr/teaching/physics/#practicum", onsite]
+    Natjecanja: ["/hr/teaching/physics/#competitions", onsite]
+  Tehnički predmeti:
+    link: ["/hr/teaching/tech", onsite]
+    Elektrotehnika: ["/hr/teaching/tech/#ee", onsite]
+    Informatika / računalstvo: ["/hr/teaching/tech/#computing", onsite]
+    Elektronika: ["/hr/teaching/tech/#electronics", onsite]
+    Zrakoplovstvo: ["/hr/teaching/tech/#aero", onsite]
   Kutak za učitelje:
-    link: ["/hr/teaching/#teachers", onsite]
+    link: ["/hr/teaching/teachers", onsite]
 ---
-
+<style>
+h4 {
+  margin: 0.5em 0;
+}
+ol, ul {
+  margin: 0;
+  line-height: 1.5em;
+  padding-left: 2em;
+}
+ol ol {
+  padding-left: 1em;
+}
+</style>
 {{ content }}
