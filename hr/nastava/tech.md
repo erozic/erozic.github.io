@@ -2,7 +2,7 @@
 layout: teaching_hr
 title: Tehnički predmeti
 id: tech
-permalink: /hr/teaching/tech
+permalink: /hr/teaching/tech/
 ---
 Na ovoj stranici, u dijelovima ispod (do kojih se može doći i izravno poveznicama u meniju lijevo), možete pronaći različite materijale za različite tehničke predmete koje sam imao priliku predavati u [Zrakoplovnoj tehničkoj školi Rudolfa Perešina](https://ss-zrakoplovna-rperesina-vg.skole.hr/).
 

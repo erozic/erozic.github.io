@@ -2,7 +2,7 @@
 layout: teaching_hr
 title: Fizika
 id: fizika
-permalink: /hr/teaching/physics
+permalink: /hr/teaching/physics/
 ---
 ## Fizika
 

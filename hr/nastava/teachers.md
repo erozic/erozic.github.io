@@ -2,7 +2,7 @@
 layout: teaching_hr
 title: Kutak za učitelje
 id: teachers
-permalink: /hr/teaching/teachers
+permalink: /hr/teaching/teachers/
 ---
 ## Kutak za nastavnike / učitelje <a name="teachers"></a>
 
