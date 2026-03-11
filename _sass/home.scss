@@ -28,6 +28,16 @@
   font-size: 1.5em;
 }
 
+#countdownClock span {
+  display: inline-block;
+  padding: 5px 0px;
+  font-size: 1.1em;
+}
+#countdownClock .days {
+  font-size: 3.3em;
+  font-weight: bold;
+}
+
 #home_container {
   position: fixed;
   top: 4em;
