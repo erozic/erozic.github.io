@@ -37,4 +37,4 @@ function initializeCountdown(endtime) {
   var timeinterval = setInterval(updateClock, 1000);
 }
 
-initializeCountdown(new Date("2026-07-18T11:00:00Z")); // this is UTC, it's -2h from Croatia time in the summer
+initializeCountdown(new Date("2026-07-18T11:45:00Z")); // this is UTC, it's -2h from Croatia time in the summer
